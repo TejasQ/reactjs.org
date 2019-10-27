@@ -27,6 +27,11 @@ February 27 & 28, 2020 in Sydney, Australia
 
 [Website](https://reactconfau.com/) - [Twitter](https://twitter.com/reactconfau) - [Facebook](https://www.facebook.com/reactconfau) - [Instagram](https://www.instagram.com/reactconfau/)
 
+### Reactathon {#reactathon}
+March 30 & 31, 2020 in San Francisco, CA, USA.
+
+[Website](https://www.reactathon.com) - [Twitter](https://twitter.com/reactathon)
+
 ### React Summit Amsterdam 2020 {#react-summit-2020}
 April 15-17, 2020 in Amsterdam, The Netherlands
 
